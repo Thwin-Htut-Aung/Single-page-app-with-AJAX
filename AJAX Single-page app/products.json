@@ -1,0 +1,32 @@
+{
+ "products": [
+    {
+       "name": "Mushrooms",
+       "id":"1",
+       "imgPath": "img/products/mushroom.jpg",
+       "details": "mdetails",
+       "price": "2"
+    },
+    {
+       "name": "Potatos",
+       "id":"2",
+       "imgPath": "img/products/potato.jpg",
+       "details": "pdetails",
+       "price": "3"
+    },
+    {
+       "name": "carrots",
+       "id":"3",
+       "imgPath": "img/products/carrots.jpg",
+       "details": "cdetails",
+       "price": "3"
+    },
+    {
+       "name": "Tomatoes",
+       "id":"4",
+       "imgPath": "img/products/tomatoes.jpg",
+       "details": "tdetails",
+       "price": "2"
+    }
+]
+}

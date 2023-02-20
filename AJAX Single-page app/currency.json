@@ -1,0 +1,53 @@
+{
+  "currencies": [
+    {
+      "name": "United States Dollar",
+      "code": "USD",
+      "country":"US",
+      "conversion": 1.0
+    },
+    {
+      "name": "Euro",
+      "code": "EUR",
+      "country":"EU",
+      "conversion": 0.94
+    },
+    {
+      "name": "Pound Sterling",
+      "code": "GBP",
+      "country":"UK",
+      "conversion": 0.83
+    },
+    {
+      "name": "Singapore Dollar",
+      "code": "SGD",
+      "country":"SG",
+      "conversion": 1.34
+    },
+       {
+      "name": "Malaysian Ringgit",
+      "code": "MYR",
+      "country":"MY",
+      "conversion": 4.43
+    },
+    {
+      "name": "Indian Rupee",
+      "code": "INR",
+      "country":"IN",
+      "conversion": 82.7
+    },
+    {
+      "name": "Myanmar Kyat",
+      "code": "MMK",
+      "country":"MM",
+      "conversion": 2100.43
+    },
+    {
+      "name": "Indonesian Rupiah",
+      "code": "IDR",
+      "country":"ID",
+      "conversion": 15164
+    
+    }
+  ]
+}
